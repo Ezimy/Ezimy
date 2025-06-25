@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **Ezimy/Ezimy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1> Sammy Yang </h1>
+<h1> Hi there 👋  im Sammy Yang </h1>
 <h2>Web Developer (Full Stack/React.js Expert/ Javascript Expert</h2>
+
+[![Website](https://img.shields.io/badge/Website-sammy--yang.ca-blue?style=for-the-badge&logo=google-chrome)](https://sammy-yang.ca)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sammy-yang/)
+[![Discord](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=discord)](https://discordapp.com/users/198209288471183360)
+[![YouTube](https://img.shields.io/badge/YouTube-Channel-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCq0lf7lFE680b-oJcZRdTGA)
+<br>
 <p>Im a web developer who graduated from York University with a Bachelors of Science in Computer Science. I build high-quality web applications from the ground up utilizing React.js and Node.js</p>
 
 ### 🧰 Languages and Tools
@@ -29,8 +35,24 @@ Here are some ideas to get you started:
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Dockerfile" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" />
 <img align="left" alt="Google Cloud Platform" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg"  />
-<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />          
+<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+
 <br />
+
 ### 📊 Stats
+
 ![Sammy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ezimy&show_icons=true&theme=gruvbox)
+
+<details>
+  <summary><h3>📘 My Programming Journey</h3></summary>
+
+  I started coding as a computer science student studying at York University. Since graduating, I have focused heavily on developing skills in web development and learned how to build high-quality and complete web applications. I started my web development journey by completing a Frontend Development Certificate at Scrimba, then started to build my own web applications; Notably I collaborated to develop a full-stack weather web application named [Breezy](https://github.com/Ezimy/Breezy) that features real-time weather updates, AI-generated weather descriptions based on current weather conditions and a responsive and modern UI.
+
+</details>
+
+
+
+
+
+
 
