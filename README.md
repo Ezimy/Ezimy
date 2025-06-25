@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />          
 <br />
 ### 📊 Stats
-![Sammy's Github Stats](https://github-readme-stats.vercel.app/api?username=Ezimy&show_icons=true&theme=gruvbox)
+![Sammy's Github Stats]https://github-readme-stats.vercel.app/api?username=Ezimy&show_icons=true&theme=gruvbox
