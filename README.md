@@ -22,7 +22,26 @@ Here are some ideas to get you started:
 [![Discord](https://img.shields.io/badge/Discord-Profile-blue?style=for-the-badge&logo=discord)](https://discordapp.com/users/198209288471183360)
 [![YouTube](https://img.shields.io/badge/YouTube-Channel-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCq0lf7lFE680b-oJcZRdTGA)
 <br>
-<p>Im a web developer who graduated from York University with a Bachelors of Science in Computer Science. I build high-quality web applications from the ground up utilizing React.js and Node.js</p>
+<p>Im a commited web developer. I build high-quality web applications from the ground up utilizing React.js and Node.js</p>
+
+## 🎓 Education
+
+<table>
+  <tr>
+    <td width="80">
+      <img src="https://github.com/user-attachments/assets/c7e8f2b5-a744-4724-b3c4-f2fa91e56c16" alt="York Logo" width="60" />
+    </td>
+    <td>
+      <strong>York University</strong><br />
+      Bachelor of Science (BSc), Computer Science<br />
+      <em>September 2017 – April 2023</em>
+    </td>
+  </tr>
+</table>
+
+
+
+
 
 ### 🧰 Languages and Tools
 
