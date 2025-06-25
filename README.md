@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 [![Website](https://img.shields.io/badge/Website-sammy--yang.ca-blue?style=for-the-badge&logo=google-chrome)](https://sammy-yang.ca)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sammy-yang/)
-[![Discord](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=discord)](https://discordapp.com/users/198209288471183360)
+[![Discord](https://img.shields.io/badge/Discord-Profile-blue?style=for-the-badge&logo=discord)](https://discordapp.com/users/198209288471183360)
 [![YouTube](https://img.shields.io/badge/YouTube-Channel-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCq0lf7lFE680b-oJcZRdTGA)
 <br>
 <p>Im a web developer who graduated from York University with a Bachelors of Science in Computer Science. I build high-quality web applications from the ground up utilizing React.js and Node.js</p>
