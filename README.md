@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 [![Discord](https://img.shields.io/badge/Discord-Profile-blue?style=for-the-badge&logo=discord)](https://discordapp.com/users/198209288471183360)
 [![YouTube](https://img.shields.io/badge/YouTube-Channel-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCq0lf7lFE680b-oJcZRdTGA)
 <br>
-<p>Im a commited web developer. I build high-quality web applications from the ground up utilizing React.js and Node.js</p>
+<p>I build high-quality web applications from the ground up utilizing React.js and Node.js</p>
 
 ## 🎓 Education
 
