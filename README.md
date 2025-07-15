@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 [![YouTube](https://img.shields.io/badge/YouTube-Channel-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCq0lf7lFE680b-oJcZRdTGA)
 <br>
 <p>I build high-quality web applications from the ground up utilizing React.js and Node.js</p>
-
+🌱 I’m currently learning Cloud Development through the Professional Cloud Developer Certification Learning Path on Google Cloud Skills Boost 
 ## 🎓 Education
 
 <table>
