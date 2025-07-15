@@ -24,7 +24,8 @@ Here are some ideas to get you started:
 <br>
 <p>I build high-quality web applications from the ground up utilizing React.js and Node.js</p>
 🌱 I’m currently learning Cloud Development through the Professional Cloud Developer Certification Learning Path on Google Cloud Skills Boost 
-## 🎓 Education
+<br>
+🎓 Education
 
 <table>
   <tr>
