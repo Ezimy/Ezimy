@@ -65,9 +65,12 @@ Here are some ideas to get you started:
 <details>
   <summary><h3>📘 My Programming Journey</h3></summary>
 
-  I started coding as a computer science student studying at York University. Since graduating, I have focused heavily on developing skills in web development and learned how to build high-quality and complete web applications. I started my web development journey by completing a Frontend Development Certificate at Scrimba, then started to build my own web applications. I collaborated to develop a full-stack weather web application named [Breezy](https://github.com/Ezimy/Breezy) that features real-time weather updates, AI-generated weather descriptions based on current weather conditions and a responsive and modern UI. I also Developed a full-stack CRUD web application [Gemini-inventory](https://github.com/Ezimy/GM-inventory-management-public) for inventory management which features a react.js/tailwindcss frontend, node.js/express.js backend, firebase authentication, role-based access, and mongoDB as its main database.
+I started coding as a computer science student studying at York University. Since graduating, I have focused heavily on developing my skills in web development and building high-quality, complete web applications. I began my web development journey by completing a Frontend Development Certificate at Scrimba, which helped me build a strong foundation in modern frontend development.
+
+I went on to develop [Gallant Marble](https://www.gallantmarble.ca), a full-stack website for a stone fabrication business. The project features a modern and responsive UI, SEO optimization, and a custom quoting system integrated with the business's email workflow. I also developed a full-stack CRUD web application, [Gemini-inventory](https://github.com/Ezimy/GM-inventory-management-public), for inventory management, featuring a React.js/Tailwind CSS frontend, Node.js/Express.js backend, Firebase authentication, role-based access control, and MongoDB as its primary database.
 
 </details>
+
 
 
 
